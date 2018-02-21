@@ -1,5 +1,4 @@
-####  Documentation  
-<!-- Write a description of the project in your README.md -->
+401 JS -- Lab 36 Full Stack Wizard Search
 
 * .env for your client:
 SERVER_URL='http://localhost:3000'
